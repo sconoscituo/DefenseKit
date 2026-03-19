@@ -1,0 +1,30 @@
+# Build
+build/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+*.cmake
+Makefile
+cmake_install.cmake
+
+# Binaries
+*.o
+*.a
+*.so
+*.exe
+*.out
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test outputs
+Testing/
+CTestTestfile.cmake
